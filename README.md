@@ -1,16 +1,12 @@
-# expanding_card_animation
+# Expanding Card Animation
 
-A new Flutter project.
+A simple project to show the use of a Hero animation widget to expand cards to full screen.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributor
+- Mohamed Amine BENBAKHTA: 
+    - [gm_benbakhta@esi.dz](mailto:gm_benbakhta@esi.dz)
+    - [LinkedIn](https://www.linkedin.com/in/mohamed-amine-benbakhta) 
+    
+## Sources
+- Flutter Hero Animations Widget documentation: <https://flutter.dev/docs/development/ui/animations/hero-animations>
+- Educity article about Hero Animations: <https://educity.app/flutter/how-to-do-hero-animation-in-flutter>
